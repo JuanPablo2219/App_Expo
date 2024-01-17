@@ -14,7 +14,7 @@ import EmojiPicker from "./components/EmojiPicker";
 
 
 
-const PlaceholderImage = require("./assets/image/20200424_020143.jpg");
+const PlaceholderImage = require("./assets/images/background-image.png");
 
 export default function App() {
   const [selectedImage, setSetselectedImage] = useState(null);
